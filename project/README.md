@@ -2,13 +2,12 @@
 
 ## Background
 
-For the past few weeks, we have been learning about lists, inheritance, polymorphism, and recursion and using them to model parts of the CTA. For this project, you will use these concepts to design and implement a program that models the entire CTA and allows users to create/remove stations, search for stations, and navigate between stations.
+For the past few weeks, we have been learning about lists, inheritance, polymorphism, and recursion and using them to model parts of the CTA. For this project, we used these concepts to design and implement a program that models the entire CTA and allows users to create/remove stations, search for stations, and navigate between stations.
 
-**Note**: You are welcome to discuss the final project with other students, but the work you submit must be your own and may not use code written by others.
 
 ## The Problem
 
-You must create a program that models the CTA and allows users to interact with the data it contains. How the system is designed is entirely up to you, but it must meet the following requirements.
+We created a program that models the CTA and allows users to interact with the data it contains
 
 ### User Interface Requirements
 
